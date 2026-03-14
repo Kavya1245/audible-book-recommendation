@@ -4,8 +4,9 @@ matplotlib
 seaborn
 scikit-learn
 nltk
-streamlit
+streamlit==1.32.0
 wordcloud
 nbformat
 ipykernel
 jupyter
+altair==4.2.2
