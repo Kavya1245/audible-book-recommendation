@@ -1,0 +1,11 @@
+Rank,Book Name,Author,Rating,Genre,content_score,cluster_score,genre_score,hybrid_score
+1,Dark Matter,Blake Crouch,4.4,Technothrillers,0.2033,1.0,0.0,0.5007
+2,The Diabetes Code: Prevent And Reverse Type 2 Diabetes Naturally,Dr. Jason Fung,4.7,Diabetes,0.1016,1.0,0.0,0.4743
+3,You Are The Best Friend,Ajay K Pandey,4.6,Anthologies (Books),0.1152,1.0,0.0,0.4742
+4,"Good Morning, Good Life: 5 Simple Habits To Master Your Mornings And Upgrade Your Life",Amy Schmittauer Landino,4.7,Time Management,0.0951,1.0,0.0,0.4708
+5,Driven By Eternity: Make Your Life Count Today & Forever,John Bevere,4.7,Christianity (Books),0.0759,1.0,0.0,0.4632
+6,The Culture Map: Breaking Through The Invisible Boundaries Of Global Business,Erin Meyer,4.7,Occupational & Organisational Psychology,0.0472,1.0,0.0,0.4518
+7,The Nightingale,Kristin Hannah,4.8,World War II Historical Fiction,0.0,1.0,0.0,0.45
+8,The Path Made Clear: Discovering Your Life'S Direction And Purpose,Oprah Winfrey,4.6,Personal Success,0.0532,1.0,0.0,0.4495
+9,Eat That Frog!,Brian Tracy,4.5,Time Management & Productivity,0.0643,1.0,0.0,0.4492
+10,Ikkisvi Sadi Ka Lokvyavahar [Easy Peasey: People Skills For Life],Allan Pease,4.3,Personal Success,0.0887,1.0,0.0,0.4485
